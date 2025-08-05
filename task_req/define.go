@@ -1,4 +1,4 @@
-package async_task_define
+package task_req
 
 type TaskReq struct {
 	ID         int    `json:"id"`
